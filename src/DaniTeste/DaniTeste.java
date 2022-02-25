@@ -3,8 +3,9 @@ package DaniTeste;
 public class DaniTeste {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Testando as Branchs do GitHub");
+		System.out.println("Opa");
+		System.out.println("De novo isso...");
 	}
 
 }
